@@ -1,0 +1,11 @@
+{
+  "version": "v0.40.0",
+  "notes": "升级一些功能",
+  "pub_date": "2023-06-22T19:25:57Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "",
+      "url": "https://gitee.com/cuteyk/rebebuca-update/releases/download/0.40.0/Rebebuca_0.40.0_x64.dmg"
+    }
+  }
+}
