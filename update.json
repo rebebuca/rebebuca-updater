@@ -1,0 +1,18 @@
+{
+    "version": "0.1.0",
+    "notes": "修复已知问题",
+    "platforms": {
+      "darwin-aarch64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYVA5Y05DUUZGQXNjWkxsNFdxdk44eEVjbGRleDMxcW5PV1YwTisxZCtPMlF4YkErb01lVWZvRmNRNDhWeFNMbTBaQ2lab1VEd0hqNmFPellNMCt2QTNleHloTDMrZ1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA3ODg2NTM3CWZpbGU6UmViZWJ1Y2EuYXBwLnRhci5negoybUtMbTQ2Smt1WFpxRktZQm1nU1RTMGtQYmhNWE5yRnlWK1RvaDlNNkliTDVNV0kyRWtYeXd2djNRSkVjbXlpaUxKQ1ZBZUxpNTlkbWxOVllXa1VDdz09Cg==",
+        "url": "https://download.m7s.live/rb/Rebebuca.app.tar.gz"
+      },
+      "darwin-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd2diUDBjUWFMRmNkNDhoaC83ZFQrOEMvb1hQTDNpR1EzTW9qaENtTGxNL2ZSdFJ2bDdVV3d0eDMyQUFKb1k2MCtqVHRxaFR5WlJybVVLYk9UQmlzN1ZqSTR4V3Q2TmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc2ODk4Mjk1CWZpbGU6UmViZWJ1Y2EuYXBwLnRhci5negpxWk9sQ3RIUktzRlNJVkdjR0Q0RngzWFdjQmVwUkdEZ0VkblRjWWNBeVhnb2RTYjMyc2xRa2hJL1h3TXZjUDI1WnpmVFJtaEloVjRmK044Uit6eU1DQT09Cg==",
+        "url": "https://download.m7s.live/rb/Rebebuca.app.tar.gz"
+      },
+       "windows-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYVA5Y05DUUZGQXJVR1AydlJLbWZTVm5mSzZJa0w3Rm1aY0tzK05rcFB0RzJoWTF5NmJ1Rlg1ckpLN2MvU1FCNWd2WUtXRmFvbHVIbW9zU0UyZjJXNC9nUkNpRkpJREFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA3ODg2Nzc1CWZpbGU6UmViZWJ1Y2FfMC4xLjBfeDY0X2VuLVVTLm1zaS56aXAKcGVrNXo2aFpYNjRJeWlxZTJLWHBLYUdueUNDelZ4c2dVdjZEOHN0VGl6c1BWR0ZCRkg2aXY2ZXk3QWlIbHNIdEZKTWlMQ1d4Z2xIZi93WDVySG1GRGc9PQo=",
+        "url": "https://download.m7s.live/rb/Rebebuca_0.1.0_x64_en-US.msi.zip"
+      }
+    }
+  }
